@@ -1,0 +1,152 @@
+# Maintenance Log
+
+- Initial framework setup for playwright-video-tests
+- Add baseline documentation and repository hygiene for playwright-video-tests
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
+- refactor(playwright-video-tests): refresh reusable data for console capture enrichment
+- chore(playwright-video-tests): record maintenance update for timeline metadata export
+- test(playwright-video-tests): add smoke coverage for trace capture for flaky login
+- test(playwright-video-tests): expand regression suite for video retention rule
+- feat(playwright-video-tests): add reusable workflow support for network waterfall snapshot
+- docs(playwright-video-tests): document execution behavior for slow motion debug preset
+- chore(playwright-video-tests): extend environment controls for artifact pruning policy
+- ci(playwright-video-tests): publish diagnostics for screenshot diff threshold
