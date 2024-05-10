@@ -1,0 +1,21 @@
+# Changelog
+
+- Initial framework bootstrap.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
+- Improved support for timeline metadata export.
